@@ -4,6 +4,7 @@
 
 body {
   background-color: white;
+	/* margin: 0px; */
 }
 
 div.header {
@@ -34,6 +35,11 @@ div.header {
   color: white;
 }
 
+.nav_links li {
+	display: inline-block;
+	margin: 5px;
+}
+
 .button {
 	text-decoration: none;
 	background-color: black;
@@ -61,7 +67,7 @@ div.box {
 div.description {
 	font-size: larger;
 	position: absolute;
-  top: 580px;
+  top: 400px;
   left: 420px;
   padding: 15px 10px;
   text-align: left;
@@ -73,6 +79,7 @@ div.description {
 }
 
 .picture {
+	width: 200px;
 	border-radius: 100%;
   background-color: aqua;
   padding: 10px;
