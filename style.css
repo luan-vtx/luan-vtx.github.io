@@ -4,6 +4,7 @@
 
 body {
   background-color: white;
+	margin: 0px;
 }
 
 div.header {
@@ -78,6 +79,7 @@ div.description {
 }
 
 .picture {
+	width: 200px;
 	border-radius: 100%;
   background-color: aqua;
   padding: 10px;
