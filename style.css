@@ -79,7 +79,9 @@ div.description {
 }
 
 .picture {
-	width: 200px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	width: 250px;
 	border-radius: 100%;
   background-color: aqua;
   padding: 10px;
